@@ -147,14 +147,14 @@ h2{
 
 .deco-left{
   left:0;
-  background-image:url("../image/character_tsumayouji_pair.png");
+  background-image:url("./character_tsumayouji_pair.png");
   background-position:center top;
 }
 
 
 .deco-right{
   right:0;
-  background-image:url("../image/character_tsumayouji_pair_mr.png");
+  background-image:url("./character_tsumayouji_pair_mr.png");
   background-position:center top;
 }
 
